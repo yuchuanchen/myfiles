@@ -1,0 +1,2 @@
+raw.githubusercontent.com/gitlabhq/gitlabhq/7-11-stable/lib/support/nginx/gitlab
+raw.githubusercontent.com/gitlabhq/gitlabhq/7-11-stable/lib/support/init.d/gitlab
